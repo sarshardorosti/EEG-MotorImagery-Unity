@@ -3,7 +3,7 @@ This project demonstrates a complete, closed-loop Brain-Computer Interface (BCI)
 
 The pipeline uses **OpenViBE** for EEG signal processing, Machine Learning (LDA Classifier) for intention detection, and **Lab Streaming Layer (LSL)** for real-time network communication with **Unity**.
 
-*Created for the MA Game Design Program at Ulster University.*
+**Created for the MA Game Design Program at Ulster University.**
 ---
 
 ## 🛠️ Tech Stack & Requirements
