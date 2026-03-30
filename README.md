@@ -1,10 +1,9 @@
 # EEG-MotorImagery-Unity
-*Created for the MA Game Design Program at Ulster University.*
-
 This project demonstrates a complete, closed-loop Brain-Computer Interface (BCI). It allows a user to control a 3D object in the Unity game engine using only their mind (Motor Imagery: imagining left or right hand movements). 
 
 The pipeline uses **OpenViBE** for EEG signal processing, Machine Learning (LDA Classifier) for intention detection, and **Lab Streaming Layer (LSL)** for real-time network communication with **Unity**.
 
+*Created for the MA Game Design Program at Ulster University.*
 ---
 
 ## 🛠️ Tech Stack & Requirements
